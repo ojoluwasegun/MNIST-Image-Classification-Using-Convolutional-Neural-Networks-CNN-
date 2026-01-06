@@ -1,0 +1,2 @@
+# MNIST-Image-Classification-Using-Convolutional-Neural-Networks-CNN-
+This project presents an image classification system for handwritten digits (0–9) using the MNIST dataset and Convolutional Neural Networks (CNN).. The project demonstrates the complete deep learning workflow, including data preprocessing, CNN model design, training, evaluation, and prediction using Python and TensorFlow/Keras.
